@@ -22,7 +22,7 @@ services:
 
 secrets:
  server:
-  file: ./secrets/server.json
+  file: ./Secrets/Server.json
 # postgres_user:
 #  file: ./secrets/postgres_user.txt
 # postgres_password:
